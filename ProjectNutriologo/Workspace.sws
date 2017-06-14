@@ -5,6 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Loaded="No" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
+		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Loaded="No" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
 		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
