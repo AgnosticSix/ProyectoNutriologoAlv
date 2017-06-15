@@ -4,11 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Loaded="No" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
-		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Loaded="No" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
-		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Loaded="No" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
 		<Model Expanded="Yes" ID="{97D83BB2-7721-48DF-9749-8167E0D0EB50}" Name="ProjectNutriologo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="ProjectNutriologo.prj"/>
-		<Model Expanded="Yes" ID="{739FC262-AF30-43EB-8F94-87C5958B86A0}" Name="Diagrama de actividades" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagrama de actividades.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
